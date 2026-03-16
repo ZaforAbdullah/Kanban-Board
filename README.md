@@ -2,7 +2,7 @@
 
 A full-stack, production-ready Kanban board web application. Built with a modern TypeScript stack, JWT authentication, and fully containerized with Docker.
 
-**Live Demo:** _coming soon_
+**[Live Demo →](https://nextjs-kanban-board-project.vercel.app/)**
 
 ---
 
