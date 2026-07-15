@@ -22,7 +22,7 @@ cd ExpressPrisma
 
 # Verify the structure
 ls
-# Should show: client/  server/  docker-compose.yml  .env.example  README.md  CLAUDE.md  QuickStart.md
+# Should show: client/  server/  docker-compose.yml  .env.example  README.md  QuickStart.md
 ```
 
 ---
